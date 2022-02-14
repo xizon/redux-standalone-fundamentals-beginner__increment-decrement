@@ -1,0 +1,19 @@
+{
+  "name": "redux-standalone-fundamentals-beginner__increment-decrement",
+  "version": "1.0.0",
+  "description": "redux-standalone-fundamentals-beginner__increment-decrement",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react-scripts": "1.1.4",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
